@@ -1,1 +1,17 @@
+Packet Capture Description
 
+The network packets were captured using Wireshark while executing the command:
+
+ping 8.8.8.8
+
+The capture contains ICMP packets exchanged between the local machine and the Google DNS server.
+
+Observed Packet Types:
+
+1. ICMP Echo Request
+These packets are sent from the local machine to the destination server to check connectivity.
+
+2. ICMP Echo Reply
+These packets are returned from the destination server indicating successful communication.
+
+This packet capture demonstrates how ICMP traffic appears during network communication and how it can be analyzed for security monitoring.
