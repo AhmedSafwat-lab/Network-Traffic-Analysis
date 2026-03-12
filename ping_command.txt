@@ -1,1 +1,9 @@
+Network Traffic Generation Command
 
+The following command was used to generate network traffic for analysis:
+
+ping 8.8.8.8
+
+This command sends ICMP Echo Request packets from the host machine to the destination server (8.8.8.8) and receives ICMP Echo Reply packets.
+
+The traffic generated from this command was captured using Wireshark for analysis.
