@@ -26,7 +26,3 @@ The captured packets were analyzed using Wireshark filters to observe ICMP traff
 ping_command.txt  
 capture_description.txt  
 traffic_analysis_report.md
-
-## Author
-
-Cybersecurity Internship Task
